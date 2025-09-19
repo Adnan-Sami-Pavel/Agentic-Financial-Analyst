@@ -4,7 +4,7 @@ A multi-agent AI system using CrewAI and heterogeneous LLMs for advanced financi
 
 ![Language](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-CrewAI-orange)
-![LLM Provider](https://img.shields.io/badge/LLM-Groq%20(Llama%203.1)-green)
+![LLM Provider](https://img.shields.io/badge/LLM-Groq%20(Llama%203.1)-blue)
 
 This repository contains the code for my research project on using a heterogeneous multi-agent system to achieve a more accurate and nuanced understanding of financial sentiment in text.
 
