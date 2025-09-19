@@ -30,7 +30,7 @@ This project is the practical implementation of the framework proposed in my res
 ## 🏛️ Project Architecture
 
 The system processes each piece of financial text through a sequential pipeline of specialist agents. Each specialist produces a high-level analysis, which is then passed to a final agent for synthesis.
-![A diagram showing financial text being analyzed in parallel by specialist agents, with their outputs being fed into a final synthesizer agent that produces a JSON output.](system archi.png)
+![A diagram showing financial text being analyzed in parallel by specialist agents, with their outputs being fed into a final synthesizer agent that produces a JSON output.](system_archi.png)
 ---
 ## 🛠️ Technologies Used
 
